@@ -36,7 +36,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projects.html" class="image" style="overflow: hidden;">
-			<img src="{% link assets/images/maison21g.png %}" alt="" data-position="top center" style="object-fit: cover;" />
+			<img src="{% link assets/images/maison21g.png %}" alt="" data-position="center center" style="object-fit: cover;" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -52,7 +52,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projects.html" class="image">
-			<img src="{% link assets/images/hatchery2.png %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/hatchery2.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
