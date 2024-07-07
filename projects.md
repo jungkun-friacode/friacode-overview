@@ -35,8 +35,8 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="projects.html" class="image">
-			<img src="{% link assets/images/maison21g.png %}" alt="" data-position="top center" />
+		<a href="projects.html" class="image" style="overflow: hidden;">
+			<img src="{% link assets/images/maison21g.png %}" alt="" data-position="top center" style="object-fit: cover;" />
 		</a>
 		<div class="content">
 			<div class="inner">
