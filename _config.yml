@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: 
+  GitHub:
   GitLab:
-  Google-Plus: 
-  Instagram: 
-  LinkedIn: 
-  Twitter: 
+  Google-Plus:
+  Instagram:
+  LinkedIn:
+  Twitter:
   Facebook:
   Slack:
 
@@ -38,7 +38,8 @@ sass:
   style: compressed
 
 exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
+  - "*.gemspec"
+  - LICENSE.md
+  - CONTRIBUTING.md
+  - README.md
+  - overview.md
