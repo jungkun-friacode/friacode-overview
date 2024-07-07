@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: "프리아코드에서 진행 했던 프로젝트를 소개 합니다."
+description: 프리아코드에서 진행 했던 프로젝트를 소개 합니다
 image: assets/images/project.jpg
 nav-menu: true
 ---
@@ -36,7 +36,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projects.html" class="image">
-			<img src="{% link assets/images/maison.png %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/maison21g.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -52,7 +52,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projects.html" class="image">
-			<img src="{% link assets/images/hatchery.png %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/hatchery2.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
