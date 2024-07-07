@@ -2,7 +2,7 @@
 title: Company Overview
 subtitle: by Friacode
 email: yonghun.jeong@friacode.com
-description: 프리아코드 대표 정용훈 입니다. 다양한 기술과 프로젝트에 관심이 많고 항상 새로운 것을 배우는 것에 관심이 많습니다.
+description: 프리아코드 대표 정용훈 입니다.<br />다양한 기술과 프로젝트에 관심이 많고 항상 새로운 것을 배우는 것에 관심이 많습니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jungkun-friacode.github.io/"
 author:
