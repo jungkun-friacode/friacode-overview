@@ -11,9 +11,9 @@ nav-menu: true
     <h1>Friacode's Member</h1>
   </header>
 
-  <h2 id="content">Member</h2>
+  <h2 id="content" style="border-top: none;">Member</h2>
 
-  <div class="row">
+  <div class="row" style="border-top: none;">
     <div class="6u 12u$(small)">
       <h3>Jeong, Yonghun</h3>
       <h4>Experience</h4>
