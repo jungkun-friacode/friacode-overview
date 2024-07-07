@@ -6,14 +6,14 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-<div id="main" class="alt">
+<div id="main" class="alt" style="border: none;">
   <header class="major">
     <h1>Friacode's Member</h1>
   </header>
 
   <h2 id="content" style="border-top: none;">Member</h2>
 
-  <div class="row" style="border-top: none;">
+  <div class="row">
     <div class="6u 12u$(small)">
       <h3>Jeong, Yonghun</h3>
       <h4>Experience</h4>
