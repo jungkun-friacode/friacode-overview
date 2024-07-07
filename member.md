@@ -2,7 +2,7 @@
 layout: post
 title: Member
 description: Friacode's Member
-image: assets/images/pic11.jpg
+image: assets/images/hero-bg.jpg
 nav-menu: true
 ---
 

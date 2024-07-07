@@ -2,7 +2,7 @@
 title: Projects
 layout: landing
 description: "프리아코드에서 진행 했던 프로젝트를 소개 합니다."
-image: assets/images/pic07.jpg
+image: assets/images/project.jpg
 nav-menu: true
 ---
 
@@ -22,8 +22,8 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<a href="projects.html" class="image">
+			<img src="{% link assets/images/jn.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -35,8 +35,8 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<a href="projects.html" class="image">
+			<img src="{% link assets/images/maison.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -51,8 +51,8 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<a href="projects.html" class="image">
+			<img src="{% link assets/images/hatchery.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
